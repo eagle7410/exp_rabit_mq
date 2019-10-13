@@ -1,0 +1,4 @@
+// Run sender
+go run send.go share.go
+// Run listener
+go run listen.go share.go
